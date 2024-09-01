@@ -253,4 +253,4 @@ const searchTask = (e) => {
   resultData.map((cardData) =>
     taskContents.insertAdjacentHTML("beforeend", htmlTaskContent(cardData))
   );
-};
+};  
